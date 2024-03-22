@@ -1,8 +1,8 @@
+
+###**Hello,I'm Hithesh Shetty
+###CSE-AIML |Student(lV year)
+
 ### About me 👋
-
-
-**Hello,I'm Hithesh Shetty
-CSE-AIML |Student(lV year)
 
 
 
