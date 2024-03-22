@@ -1,7 +1,8 @@
 ### About me 👋
 
 
-**HitheshShty/HitheshShty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello,I'm Hithesh Shetty
+CSE-AIML |Student(lV year)
 
 Here are some ideas to get you started:
 
